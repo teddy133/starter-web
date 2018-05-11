@@ -14,3 +14,8 @@ I will and i really will create. I Promise on that boy
 
 Ha! You cant!
 i told you....
+
+## copyright
+
+.git trainig
+
