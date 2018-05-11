@@ -1,2 +1,4 @@
 john.txt
 log/
+
+*.orig
