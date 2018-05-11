@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rich the kid johnthking@tutwiler
 
 # THANKS
 
