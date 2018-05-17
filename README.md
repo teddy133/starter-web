@@ -18,5 +18,5 @@ i told you....
 
 ## copyright
 
-.git trainig
+2014 .Git trainig
 
