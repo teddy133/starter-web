@@ -18,5 +18,5 @@ i told you....
 
 ## copyright
 
-2014 .Git trainig
+2014 .Git trainig. All rights reserved
 
